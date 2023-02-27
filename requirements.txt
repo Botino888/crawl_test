@@ -17,7 +17,7 @@ itsdangerous==2.0.1
 jieba3k==0.35.1
 Jinja2==3.0.1
 joblib==1.0.1
-lxml==4.6.3
+lxml==4.9.1
 MarkupSafe==2.0.1
 mysqlclient==2.0.3
 newspaper3k==0.2.8
